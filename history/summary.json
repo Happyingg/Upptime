@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2104,
-    "timeDay": 2104,
-    "timeWeek": 2104,
-    "timeMonth": 2104,
-    "timeYear": 2104,
+    "time": 2046,
+    "timeDay": 2046,
+    "timeWeek": 2046,
+    "timeMonth": 2046,
+    "timeYear": 2046,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
+    "time": 295,
+    "timeDay": 295,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 867,
-    "timeWeek": 867,
-    "timeMonth": 867,
-    "timeYear": 867,
+    "time": 870,
+    "timeDay": 870,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Twitter",
+    "url": "abcdsdfsrff",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "twitter",
+    "status": "down",
+    "uptime": "15.31%",
+    "uptimeDay": "15.31%",
+    "uptimeWeek": "15.31%",
+    "uptimeMonth": "15.31%",
+    "uptimeYear": "15.31%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-07": 0
+    }
   }
 ]
